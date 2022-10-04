@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "mkr-to-zbx"
+version = "0.1.0"
+description = "Discovery and add hosts to Zabbix from Mikrotik"
+authors = ["Nikolay Mamashin <mamashin@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyzabbix = "^1.2.0"
+python-decouple = "^3.6"
+dictdiffer = "^0.9.0"
+loguru = "^0.6.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

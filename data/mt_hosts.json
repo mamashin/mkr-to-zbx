@@ -1,0 +1,51 @@
+[
+  {
+    "host": "192.168.10.1",
+    "loc": "carm",
+    "login": "zabbix-api",
+    "pass": "passw0rd",
+    "parent_trigger": "19779"
+  },
+  {
+    "host": "192.168.1.1",
+    "loc": "carm-buh",
+    "login": "zabbix-api",
+    "pass": "passw0rd",
+    "parent_trigger": "20648"
+  },
+  {
+    "host": "192.168.9.1",
+    "loc": "rc",
+    "login": "zabbix-api",
+    "pass": "passw0rd",
+    "parent_trigger": "19688"
+  },
+  {
+    "host": "192.168.5.1",
+    "loc": "dag",
+    "login": "zabbix-api",
+    "pass": "passw0rd",
+    "parent_trigger": "20895"
+  },
+  {
+    "host": "192.168.4.1",
+    "loc": "kp",
+    "login": "zabbix-api",
+    "pass": "passw0rd",
+    "parent_trigger": "20773"
+  },
+  {
+    "host": "192.168.3.1",
+    "loc": "adler",
+    "login": "zabbix-api",
+    "pass": "passw0rd",
+    "parent_trigger": "19751"
+  },
+  {
+    "host": "192.168.2.1",
+    "loc": "roz",
+    "login": "zabbix-api",
+    "pass": "passw0rd",
+    "parent_trigger": "19723"
+  }
+]
